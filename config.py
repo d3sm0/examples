@@ -16,11 +16,7 @@ batch_size = 128
 momentum_mass = 0.99
 weight_norm = 0.00
 
-<<<<<<< HEAD
-num_epochs = 1
-=======
 num_epochs = 1000
->>>>>>> upstream/master
 
 experiment_buddy.register(locals())
 
