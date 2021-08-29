@@ -1,3 +1,4 @@
-jax
-jaxlib
-git+https://github.com/ministry-of-silly-code/experiment_buddy.git@main#egg=experiment_buddy
+# jax
+# jaxlib
+torch
+git+https://github.com/d3sm0/experiment_buddy.git@main#egg=experiment_buddy
